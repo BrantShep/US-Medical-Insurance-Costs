@@ -57,6 +57,7 @@ plt.scatter(x, y)
 plt.show()
 
 
+
 def average_cost(cost, factor, param):
     sum_of_cost = 0
     total_in_factor = 0
